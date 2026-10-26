@@ -1,0 +1,884 @@
+[
+  {
+    "case_id": "BernardCells/1",
+    "family": "BernardCells",
+    "slug": "BernardCells_1",
+    "suite": "basic",
+    "task_path": "tasks/BernardCells_1/task.json"
+  },
+  {
+    "case_id": "BernardCells/10",
+    "family": "BernardCells",
+    "slug": "BernardCells_10",
+    "suite": "basic",
+    "task_path": "tasks/BernardCells_10/task.json"
+  },
+  {
+    "case_id": "BernardCells/2",
+    "family": "BernardCells",
+    "slug": "BernardCells_2",
+    "suite": "basic",
+    "task_path": "tasks/BernardCells_2/task.json"
+  },
+  {
+    "case_id": "BernardCells/3",
+    "family": "BernardCells",
+    "slug": "BernardCells_3",
+    "suite": "basic",
+    "task_path": "tasks/BernardCells_3/task.json"
+  },
+  {
+    "case_id": "BernardCells/4",
+    "family": "BernardCells",
+    "slug": "BernardCells_4",
+    "suite": "basic",
+    "task_path": "tasks/BernardCells_4/task.json"
+  },
+  {
+    "case_id": "BernardCells/5",
+    "family": "BernardCells",
+    "slug": "BernardCells_5",
+    "suite": "basic",
+    "task_path": "tasks/BernardCells_5/task.json"
+  },
+  {
+    "case_id": "BernardCells/6",
+    "family": "BernardCells",
+    "slug": "BernardCells_6",
+    "suite": "basic",
+    "task_path": "tasks/BernardCells_6/task.json"
+  },
+  {
+    "case_id": "BernardCells/7",
+    "family": "BernardCells",
+    "slug": "BernardCells_7",
+    "suite": "basic",
+    "task_path": "tasks/BernardCells_7/task.json"
+  },
+  {
+    "case_id": "BernardCells/8",
+    "family": "BernardCells",
+    "slug": "BernardCells_8",
+    "suite": "basic",
+    "task_path": "tasks/BernardCells_8/task.json"
+  },
+  {
+    "case_id": "BernardCells/9",
+    "family": "BernardCells",
+    "slug": "BernardCells_9",
+    "suite": "basic",
+    "task_path": "tasks/BernardCells_9/task.json"
+  },
+  {
+    "case_id": "Cavity/1",
+    "family": "Cavity",
+    "slug": "Cavity_1",
+    "suite": "basic",
+    "task_path": "tasks/Cavity_1/task.json"
+  },
+  {
+    "case_id": "Cavity/10",
+    "family": "Cavity",
+    "slug": "Cavity_10",
+    "suite": "basic",
+    "task_path": "tasks/Cavity_10/task.json"
+  },
+  {
+    "case_id": "Cavity/2",
+    "family": "Cavity",
+    "slug": "Cavity_2",
+    "suite": "basic",
+    "task_path": "tasks/Cavity_2/task.json"
+  },
+  {
+    "case_id": "Cavity/3",
+    "family": "Cavity",
+    "slug": "Cavity_3",
+    "suite": "basic",
+    "task_path": "tasks/Cavity_3/task.json"
+  },
+  {
+    "case_id": "Cavity/4",
+    "family": "Cavity",
+    "slug": "Cavity_4",
+    "suite": "basic",
+    "task_path": "tasks/Cavity_4/task.json"
+  },
+  {
+    "case_id": "Cavity/5",
+    "family": "Cavity",
+    "slug": "Cavity_5",
+    "suite": "basic",
+    "task_path": "tasks/Cavity_5/task.json"
+  },
+  {
+    "case_id": "Cavity/6",
+    "family": "Cavity",
+    "slug": "Cavity_6",
+    "suite": "basic",
+    "task_path": "tasks/Cavity_6/task.json"
+  },
+  {
+    "case_id": "Cavity/7",
+    "family": "Cavity",
+    "slug": "Cavity_7",
+    "suite": "basic",
+    "task_path": "tasks/Cavity_7/task.json"
+  },
+  {
+    "case_id": "Cavity/8",
+    "family": "Cavity",
+    "slug": "Cavity_8",
+    "suite": "basic",
+    "task_path": "tasks/Cavity_8/task.json"
+  },
+  {
+    "case_id": "Cavity/9",
+    "family": "Cavity",
+    "slug": "Cavity_9",
+    "suite": "basic",
+    "task_path": "tasks/Cavity_9/task.json"
+  },
+  {
+    "case_id": "Cylinder/1",
+    "family": "Cylinder",
+    "slug": "Cylinder_1",
+    "suite": "basic",
+    "task_path": "tasks/Cylinder_1/task.json"
+  },
+  {
+    "case_id": "Cylinder/10",
+    "family": "Cylinder",
+    "slug": "Cylinder_10",
+    "suite": "basic",
+    "task_path": "tasks/Cylinder_10/task.json"
+  },
+  {
+    "case_id": "Cylinder/2",
+    "family": "Cylinder",
+    "slug": "Cylinder_2",
+    "suite": "basic",
+    "task_path": "tasks/Cylinder_2/task.json"
+  },
+  {
+    "case_id": "Cylinder/3",
+    "family": "Cylinder",
+    "slug": "Cylinder_3",
+    "suite": "basic",
+    "task_path": "tasks/Cylinder_3/task.json"
+  },
+  {
+    "case_id": "Cylinder/4",
+    "family": "Cylinder",
+    "slug": "Cylinder_4",
+    "suite": "basic",
+    "task_path": "tasks/Cylinder_4/task.json"
+  },
+  {
+    "case_id": "Cylinder/5",
+    "family": "Cylinder",
+    "slug": "Cylinder_5",
+    "suite": "basic",
+    "task_path": "tasks/Cylinder_5/task.json"
+  },
+  {
+    "case_id": "Cylinder/6",
+    "family": "Cylinder",
+    "slug": "Cylinder_6",
+    "suite": "basic",
+    "task_path": "tasks/Cylinder_6/task.json"
+  },
+  {
+    "case_id": "Cylinder/7",
+    "family": "Cylinder",
+    "slug": "Cylinder_7",
+    "suite": "basic",
+    "task_path": "tasks/Cylinder_7/task.json"
+  },
+  {
+    "case_id": "Cylinder/8",
+    "family": "Cylinder",
+    "slug": "Cylinder_8",
+    "suite": "basic",
+    "task_path": "tasks/Cylinder_8/task.json"
+  },
+  {
+    "case_id": "Cylinder/9",
+    "family": "Cylinder",
+    "slug": "Cylinder_9",
+    "suite": "basic",
+    "task_path": "tasks/Cylinder_9/task.json"
+  },
+  {
+    "case_id": "counterFlowFlame2D/1",
+    "family": "counterFlowFlame2D",
+    "slug": "counterFlowFlame2D_1",
+    "suite": "basic",
+    "task_path": "tasks/counterFlowFlame2D_1/task.json"
+  },
+  {
+    "case_id": "counterFlowFlame2D/10",
+    "family": "counterFlowFlame2D",
+    "slug": "counterFlowFlame2D_10",
+    "suite": "basic",
+    "task_path": "tasks/counterFlowFlame2D_10/task.json"
+  },
+  {
+    "case_id": "counterFlowFlame2D/2",
+    "family": "counterFlowFlame2D",
+    "slug": "counterFlowFlame2D_2",
+    "suite": "basic",
+    "task_path": "tasks/counterFlowFlame2D_2/task.json"
+  },
+  {
+    "case_id": "counterFlowFlame2D/3",
+    "family": "counterFlowFlame2D",
+    "slug": "counterFlowFlame2D_3",
+    "suite": "basic",
+    "task_path": "tasks/counterFlowFlame2D_3/task.json"
+  },
+  {
+    "case_id": "counterFlowFlame2D/4",
+    "family": "counterFlowFlame2D",
+    "slug": "counterFlowFlame2D_4",
+    "suite": "basic",
+    "task_path": "tasks/counterFlowFlame2D_4/task.json"
+  },
+  {
+    "case_id": "counterFlowFlame2D/5",
+    "family": "counterFlowFlame2D",
+    "slug": "counterFlowFlame2D_5",
+    "suite": "basic",
+    "task_path": "tasks/counterFlowFlame2D_5/task.json"
+  },
+  {
+    "case_id": "counterFlowFlame2D/6",
+    "family": "counterFlowFlame2D",
+    "slug": "counterFlowFlame2D_6",
+    "suite": "basic",
+    "task_path": "tasks/counterFlowFlame2D_6/task.json"
+  },
+  {
+    "case_id": "counterFlowFlame2D/7",
+    "family": "counterFlowFlame2D",
+    "slug": "counterFlowFlame2D_7",
+    "suite": "basic",
+    "task_path": "tasks/counterFlowFlame2D_7/task.json"
+  },
+  {
+    "case_id": "counterFlowFlame2D/8",
+    "family": "counterFlowFlame2D",
+    "slug": "counterFlowFlame2D_8",
+    "suite": "basic",
+    "task_path": "tasks/counterFlowFlame2D_8/task.json"
+  },
+  {
+    "case_id": "counterFlowFlame2D/9",
+    "family": "counterFlowFlame2D",
+    "slug": "counterFlowFlame2D_9",
+    "suite": "basic",
+    "task_path": "tasks/counterFlowFlame2D_9/task.json"
+  },
+  {
+    "case_id": "damBreakWithObstacle/1",
+    "family": "damBreakWithObstacle",
+    "slug": "damBreakWithObstacle_1",
+    "suite": "basic",
+    "task_path": "tasks/damBreakWithObstacle_1/task.json"
+  },
+  {
+    "case_id": "damBreakWithObstacle/10",
+    "family": "damBreakWithObstacle",
+    "slug": "damBreakWithObstacle_10",
+    "suite": "basic",
+    "task_path": "tasks/damBreakWithObstacle_10/task.json"
+  },
+  {
+    "case_id": "damBreakWithObstacle/2",
+    "family": "damBreakWithObstacle",
+    "slug": "damBreakWithObstacle_2",
+    "suite": "basic",
+    "task_path": "tasks/damBreakWithObstacle_2/task.json"
+  },
+  {
+    "case_id": "damBreakWithObstacle/3",
+    "family": "damBreakWithObstacle",
+    "slug": "damBreakWithObstacle_3",
+    "suite": "basic",
+    "task_path": "tasks/damBreakWithObstacle_3/task.json"
+  },
+  {
+    "case_id": "damBreakWithObstacle/4",
+    "family": "damBreakWithObstacle",
+    "slug": "damBreakWithObstacle_4",
+    "suite": "basic",
+    "task_path": "tasks/damBreakWithObstacle_4/task.json"
+  },
+  {
+    "case_id": "damBreakWithObstacle/5",
+    "family": "damBreakWithObstacle",
+    "slug": "damBreakWithObstacle_5",
+    "suite": "basic",
+    "task_path": "tasks/damBreakWithObstacle_5/task.json"
+  },
+  {
+    "case_id": "damBreakWithObstacle/6",
+    "family": "damBreakWithObstacle",
+    "slug": "damBreakWithObstacle_6",
+    "suite": "basic",
+    "task_path": "tasks/damBreakWithObstacle_6/task.json"
+  },
+  {
+    "case_id": "damBreakWithObstacle/7",
+    "family": "damBreakWithObstacle",
+    "slug": "damBreakWithObstacle_7",
+    "suite": "basic",
+    "task_path": "tasks/damBreakWithObstacle_7/task.json"
+  },
+  {
+    "case_id": "damBreakWithObstacle/8",
+    "family": "damBreakWithObstacle",
+    "slug": "damBreakWithObstacle_8",
+    "suite": "basic",
+    "task_path": "tasks/damBreakWithObstacle_8/task.json"
+  },
+  {
+    "case_id": "damBreakWithObstacle/9",
+    "family": "damBreakWithObstacle",
+    "slug": "damBreakWithObstacle_9",
+    "suite": "basic",
+    "task_path": "tasks/damBreakWithObstacle_9/task.json"
+  },
+  {
+    "case_id": "forwardStep/1",
+    "family": "forwardStep",
+    "slug": "forwardStep_1",
+    "suite": "basic",
+    "task_path": "tasks/forwardStep_1/task.json"
+  },
+  {
+    "case_id": "forwardStep/10",
+    "family": "forwardStep",
+    "slug": "forwardStep_10",
+    "suite": "basic",
+    "task_path": "tasks/forwardStep_10/task.json"
+  },
+  {
+    "case_id": "forwardStep/2",
+    "family": "forwardStep",
+    "slug": "forwardStep_2",
+    "suite": "basic",
+    "task_path": "tasks/forwardStep_2/task.json"
+  },
+  {
+    "case_id": "forwardStep/3",
+    "family": "forwardStep",
+    "slug": "forwardStep_3",
+    "suite": "basic",
+    "task_path": "tasks/forwardStep_3/task.json"
+  },
+  {
+    "case_id": "forwardStep/4",
+    "family": "forwardStep",
+    "slug": "forwardStep_4",
+    "suite": "basic",
+    "task_path": "tasks/forwardStep_4/task.json"
+  },
+  {
+    "case_id": "forwardStep/5",
+    "family": "forwardStep",
+    "slug": "forwardStep_5",
+    "suite": "basic",
+    "task_path": "tasks/forwardStep_5/task.json"
+  },
+  {
+    "case_id": "forwardStep/6",
+    "family": "forwardStep",
+    "slug": "forwardStep_6",
+    "suite": "basic",
+    "task_path": "tasks/forwardStep_6/task.json"
+  },
+  {
+    "case_id": "forwardStep/7",
+    "family": "forwardStep",
+    "slug": "forwardStep_7",
+    "suite": "basic",
+    "task_path": "tasks/forwardStep_7/task.json"
+  },
+  {
+    "case_id": "forwardStep/8",
+    "family": "forwardStep",
+    "slug": "forwardStep_8",
+    "suite": "basic",
+    "task_path": "tasks/forwardStep_8/task.json"
+  },
+  {
+    "case_id": "forwardStep/9",
+    "family": "forwardStep",
+    "slug": "forwardStep_9",
+    "suite": "basic",
+    "task_path": "tasks/forwardStep_9/task.json"
+  },
+  {
+    "case_id": "obliqueShock/1",
+    "family": "obliqueShock",
+    "slug": "obliqueShock_1",
+    "suite": "basic",
+    "task_path": "tasks/obliqueShock_1/task.json"
+  },
+  {
+    "case_id": "obliqueShock/10",
+    "family": "obliqueShock",
+    "slug": "obliqueShock_10",
+    "suite": "basic",
+    "task_path": "tasks/obliqueShock_10/task.json"
+  },
+  {
+    "case_id": "obliqueShock/2",
+    "family": "obliqueShock",
+    "slug": "obliqueShock_2",
+    "suite": "basic",
+    "task_path": "tasks/obliqueShock_2/task.json"
+  },
+  {
+    "case_id": "obliqueShock/3",
+    "family": "obliqueShock",
+    "slug": "obliqueShock_3",
+    "suite": "basic",
+    "task_path": "tasks/obliqueShock_3/task.json"
+  },
+  {
+    "case_id": "obliqueShock/4",
+    "family": "obliqueShock",
+    "slug": "obliqueShock_4",
+    "suite": "basic",
+    "task_path": "tasks/obliqueShock_4/task.json"
+  },
+  {
+    "case_id": "obliqueShock/5",
+    "family": "obliqueShock",
+    "slug": "obliqueShock_5",
+    "suite": "basic",
+    "task_path": "tasks/obliqueShock_5/task.json"
+  },
+  {
+    "case_id": "obliqueShock/6",
+    "family": "obliqueShock",
+    "slug": "obliqueShock_6",
+    "suite": "basic",
+    "task_path": "tasks/obliqueShock_6/task.json"
+  },
+  {
+    "case_id": "obliqueShock/7",
+    "family": "obliqueShock",
+    "slug": "obliqueShock_7",
+    "suite": "basic",
+    "task_path": "tasks/obliqueShock_7/task.json"
+  },
+  {
+    "case_id": "obliqueShock/8",
+    "family": "obliqueShock",
+    "slug": "obliqueShock_8",
+    "suite": "basic",
+    "task_path": "tasks/obliqueShock_8/task.json"
+  },
+  {
+    "case_id": "obliqueShock/9",
+    "family": "obliqueShock",
+    "slug": "obliqueShock_9",
+    "suite": "basic",
+    "task_path": "tasks/obliqueShock_9/task.json"
+  },
+  {
+    "case_id": "pitzDaily/1",
+    "family": "pitzDaily",
+    "slug": "pitzDaily_1",
+    "suite": "basic",
+    "task_path": "tasks/pitzDaily_1/task.json"
+  },
+  {
+    "case_id": "pitzDaily/10",
+    "family": "pitzDaily",
+    "slug": "pitzDaily_10",
+    "suite": "basic",
+    "task_path": "tasks/pitzDaily_10/task.json"
+  },
+  {
+    "case_id": "pitzDaily/2",
+    "family": "pitzDaily",
+    "slug": "pitzDaily_2",
+    "suite": "basic",
+    "task_path": "tasks/pitzDaily_2/task.json"
+  },
+  {
+    "case_id": "pitzDaily/3",
+    "family": "pitzDaily",
+    "slug": "pitzDaily_3",
+    "suite": "basic",
+    "task_path": "tasks/pitzDaily_3/task.json"
+  },
+  {
+    "case_id": "pitzDaily/4",
+    "family": "pitzDaily",
+    "slug": "pitzDaily_4",
+    "suite": "basic",
+    "task_path": "tasks/pitzDaily_4/task.json"
+  },
+  {
+    "case_id": "pitzDaily/5",
+    "family": "pitzDaily",
+    "slug": "pitzDaily_5",
+    "suite": "basic",
+    "task_path": "tasks/pitzDaily_5/task.json"
+  },
+  {
+    "case_id": "pitzDaily/6",
+    "family": "pitzDaily",
+    "slug": "pitzDaily_6",
+    "suite": "basic",
+    "task_path": "tasks/pitzDaily_6/task.json"
+  },
+  {
+    "case_id": "pitzDaily/7",
+    "family": "pitzDaily",
+    "slug": "pitzDaily_7",
+    "suite": "basic",
+    "task_path": "tasks/pitzDaily_7/task.json"
+  },
+  {
+    "case_id": "pitzDaily/8",
+    "family": "pitzDaily",
+    "slug": "pitzDaily_8",
+    "suite": "basic",
+    "task_path": "tasks/pitzDaily_8/task.json"
+  },
+  {
+    "case_id": "pitzDaily/9",
+    "family": "pitzDaily",
+    "slug": "pitzDaily_9",
+    "suite": "basic",
+    "task_path": "tasks/pitzDaily_9/task.json"
+  },
+  {
+    "case_id": "shallowWaterWithSquareBump/1",
+    "family": "shallowWaterWithSquareBump",
+    "slug": "shallowWaterWithSquareBump_1",
+    "suite": "basic",
+    "task_path": "tasks/shallowWaterWithSquareBump_1/task.json"
+  },
+  {
+    "case_id": "shallowWaterWithSquareBump/10",
+    "family": "shallowWaterWithSquareBump",
+    "slug": "shallowWaterWithSquareBump_10",
+    "suite": "basic",
+    "task_path": "tasks/shallowWaterWithSquareBump_10/task.json"
+  },
+  {
+    "case_id": "shallowWaterWithSquareBump/2",
+    "family": "shallowWaterWithSquareBump",
+    "slug": "shallowWaterWithSquareBump_2",
+    "suite": "basic",
+    "task_path": "tasks/shallowWaterWithSquareBump_2/task.json"
+  },
+  {
+    "case_id": "shallowWaterWithSquareBump/3",
+    "family": "shallowWaterWithSquareBump",
+    "slug": "shallowWaterWithSquareBump_3",
+    "suite": "basic",
+    "task_path": "tasks/shallowWaterWithSquareBump_3/task.json"
+  },
+  {
+    "case_id": "shallowWaterWithSquareBump/4",
+    "family": "shallowWaterWithSquareBump",
+    "slug": "shallowWaterWithSquareBump_4",
+    "suite": "basic",
+    "task_path": "tasks/shallowWaterWithSquareBump_4/task.json"
+  },
+  {
+    "case_id": "shallowWaterWithSquareBump/5",
+    "family": "shallowWaterWithSquareBump",
+    "slug": "shallowWaterWithSquareBump_5",
+    "suite": "basic",
+    "task_path": "tasks/shallowWaterWithSquareBump_5/task.json"
+  },
+  {
+    "case_id": "shallowWaterWithSquareBump/6",
+    "family": "shallowWaterWithSquareBump",
+    "slug": "shallowWaterWithSquareBump_6",
+    "suite": "basic",
+    "task_path": "tasks/shallowWaterWithSquareBump_6/task.json"
+  },
+  {
+    "case_id": "shallowWaterWithSquareBump/7",
+    "family": "shallowWaterWithSquareBump",
+    "slug": "shallowWaterWithSquareBump_7",
+    "suite": "basic",
+    "task_path": "tasks/shallowWaterWithSquareBump_7/task.json"
+  },
+  {
+    "case_id": "shallowWaterWithSquareBump/8",
+    "family": "shallowWaterWithSquareBump",
+    "slug": "shallowWaterWithSquareBump_8",
+    "suite": "basic",
+    "task_path": "tasks/shallowWaterWithSquareBump_8/task.json"
+  },
+  {
+    "case_id": "shallowWaterWithSquareBump/9",
+    "family": "shallowWaterWithSquareBump",
+    "slug": "shallowWaterWithSquareBump_9",
+    "suite": "basic",
+    "task_path": "tasks/shallowWaterWithSquareBump_9/task.json"
+  },
+  {
+    "case_id": "squareBend/1",
+    "family": "squareBend",
+    "slug": "squareBend_1",
+    "suite": "basic",
+    "task_path": "tasks/squareBend_1/task.json"
+  },
+  {
+    "case_id": "squareBend/10",
+    "family": "squareBend",
+    "slug": "squareBend_10",
+    "suite": "basic",
+    "task_path": "tasks/squareBend_10/task.json"
+  },
+  {
+    "case_id": "squareBend/2",
+    "family": "squareBend",
+    "slug": "squareBend_2",
+    "suite": "basic",
+    "task_path": "tasks/squareBend_2/task.json"
+  },
+  {
+    "case_id": "squareBend/3",
+    "family": "squareBend",
+    "slug": "squareBend_3",
+    "suite": "basic",
+    "task_path": "tasks/squareBend_3/task.json"
+  },
+  {
+    "case_id": "squareBend/4",
+    "family": "squareBend",
+    "slug": "squareBend_4",
+    "suite": "basic",
+    "task_path": "tasks/squareBend_4/task.json"
+  },
+  {
+    "case_id": "squareBend/5",
+    "family": "squareBend",
+    "slug": "squareBend_5",
+    "suite": "basic",
+    "task_path": "tasks/squareBend_5/task.json"
+  },
+  {
+    "case_id": "squareBend/6",
+    "family": "squareBend",
+    "slug": "squareBend_6",
+    "suite": "basic",
+    "task_path": "tasks/squareBend_6/task.json"
+  },
+  {
+    "case_id": "squareBend/7",
+    "family": "squareBend",
+    "slug": "squareBend_7",
+    "suite": "basic",
+    "task_path": "tasks/squareBend_7/task.json"
+  },
+  {
+    "case_id": "squareBend/8",
+    "family": "squareBend",
+    "slug": "squareBend_8",
+    "suite": "basic",
+    "task_path": "tasks/squareBend_8/task.json"
+  },
+  {
+    "case_id": "squareBend/9",
+    "family": "squareBend",
+    "slug": "squareBend_9",
+    "suite": "basic",
+    "task_path": "tasks/squareBend_9/task.json"
+  },
+  {
+    "case_id": "wedge/1",
+    "family": "wedge",
+    "slug": "wedge_1",
+    "suite": "basic",
+    "task_path": "tasks/wedge_1/task.json"
+  },
+  {
+    "case_id": "wedge/10",
+    "family": "wedge",
+    "slug": "wedge_10",
+    "suite": "basic",
+    "task_path": "tasks/wedge_10/task.json"
+  },
+  {
+    "case_id": "wedge/2",
+    "family": "wedge",
+    "slug": "wedge_2",
+    "suite": "basic",
+    "task_path": "tasks/wedge_2/task.json"
+  },
+  {
+    "case_id": "wedge/3",
+    "family": "wedge",
+    "slug": "wedge_3",
+    "suite": "basic",
+    "task_path": "tasks/wedge_3/task.json"
+  },
+  {
+    "case_id": "wedge/4",
+    "family": "wedge",
+    "slug": "wedge_4",
+    "suite": "basic",
+    "task_path": "tasks/wedge_4/task.json"
+  },
+  {
+    "case_id": "wedge/5",
+    "family": "wedge",
+    "slug": "wedge_5",
+    "suite": "basic",
+    "task_path": "tasks/wedge_5/task.json"
+  },
+  {
+    "case_id": "wedge/6",
+    "family": "wedge",
+    "slug": "wedge_6",
+    "suite": "basic",
+    "task_path": "tasks/wedge_6/task.json"
+  },
+  {
+    "case_id": "wedge/7",
+    "family": "wedge",
+    "slug": "wedge_7",
+    "suite": "basic",
+    "task_path": "tasks/wedge_7/task.json"
+  },
+  {
+    "case_id": "wedge/8",
+    "family": "wedge",
+    "slug": "wedge_8",
+    "suite": "basic",
+    "task_path": "tasks/wedge_8/task.json"
+  },
+  {
+    "case_id": "wedge/9",
+    "family": "wedge",
+    "slug": "wedge_9",
+    "suite": "basic",
+    "task_path": "tasks/wedge_9/task.json"
+  },
+  {
+    "case_id": "Cavity_LES",
+    "family": "Cavity_LES",
+    "slug": "Cavity_LES",
+    "suite": "advanced",
+    "task_path": "tasks/Cavity_LES/task.json"
+  },
+  {
+    "case_id": "Cavity_SA",
+    "family": "Cavity_SA",
+    "slug": "Cavity_SA",
+    "suite": "advanced",
+    "task_path": "tasks/Cavity_SA/task.json"
+  },
+  {
+    "case_id": "Cavity_geometry_1",
+    "family": "Cavity_geometry_1",
+    "slug": "Cavity_geometry_1",
+    "suite": "advanced",
+    "task_path": "tasks/Cavity_geometry_1/task.json"
+  },
+  {
+    "case_id": "Cylinder_LES",
+    "family": "Cylinder_LES",
+    "slug": "Cylinder_LES",
+    "suite": "advanced",
+    "task_path": "tasks/Cylinder_LES/task.json"
+  },
+  {
+    "case_id": "Cylinder_SA",
+    "family": "Cylinder_SA",
+    "slug": "Cylinder_SA",
+    "suite": "advanced",
+    "task_path": "tasks/Cylinder_SA/task.json"
+  },
+  {
+    "case_id": "Diamond_Obstacle_KOMEGASST",
+    "family": "Diamond_Obstacle_KOMEGASST",
+    "slug": "Diamond_Obstacle_KOMEGASST",
+    "suite": "advanced",
+    "task_path": "tasks/Diamond_Obstacle_KOMEGASST/task.json"
+  },
+  {
+    "case_id": "Diamond_Obstacle_SA",
+    "family": "Diamond_Obstacle_SA",
+    "slug": "Diamond_Obstacle_SA",
+    "suite": "advanced",
+    "task_path": "tasks/Diamond_Obstacle_SA/task.json"
+  },
+  {
+    "case_id": "Double_Square_SA",
+    "family": "Double_Square_SA",
+    "slug": "Double_Square_SA",
+    "suite": "advanced",
+    "task_path": "tasks/Double_Square_SA/task.json"
+  },
+  {
+    "case_id": "Rectangular_Obstacle_KOMEGASST",
+    "family": "Rectangular_Obstacle_KOMEGASST",
+    "slug": "Rectangular_Obstacle_KOMEGASST",
+    "suite": "advanced",
+    "task_path": "tasks/Rectangular_Obstacle_KOMEGASST/task.json"
+  },
+  {
+    "case_id": "Rectangular_Obstacle_SA",
+    "family": "Rectangular_Obstacle_SA",
+    "slug": "Rectangular_Obstacle_SA",
+    "suite": "advanced",
+    "task_path": "tasks/Rectangular_Obstacle_SA/task.json"
+  },
+  {
+    "case_id": "counterFlowFlame2D_KE",
+    "family": "counterFlowFlame2D_KE",
+    "slug": "counterFlowFlame2D_KE",
+    "suite": "advanced",
+    "task_path": "tasks/counterFlowFlame2D_KE/task.json"
+  },
+  {
+    "case_id": "counterFlowFlame2D_SA",
+    "family": "counterFlowFlame2D_SA",
+    "slug": "counterFlowFlame2D_SA",
+    "suite": "advanced",
+    "task_path": "tasks/counterFlowFlame2D_SA/task.json"
+  },
+  {
+    "case_id": "nozzleFlow2D_SA",
+    "family": "nozzleFlow2D_SA",
+    "slug": "nozzleFlow2D_SA",
+    "suite": "advanced",
+    "task_path": "tasks/nozzleFlow2D_SA/task.json"
+  },
+  {
+    "case_id": "obliqueShock_KE",
+    "family": "obliqueShock_KE",
+    "slug": "obliqueShock_KE",
+    "suite": "advanced",
+    "task_path": "tasks/obliqueShock_KE/task.json"
+  },
+  {
+    "case_id": "obliqueShock_LES",
+    "family": "obliqueShock_LES",
+    "slug": "obliqueShock_LES",
+    "suite": "advanced",
+    "task_path": "tasks/obliqueShock_LES/task.json"
+  },
+  {
+    "case_id": "wedge_SA",
+    "family": "wedge_SA",
+    "slug": "wedge_SA",
+    "suite": "advanced",
+    "task_path": "tasks/wedge_SA/task.json"
+  }
+]

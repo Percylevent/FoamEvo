@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "foam-refiner"
+version = "0.1.0"
+description = "Independent evolution control plane for Foam-Runner"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic>=2.0",
+    "langgraph>=0.2,<0.3",
+    "openai>=1.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<9"]
+anthropic = ["anthropic>=0.20"]
+
+[project.scripts]
+foam-refiner = "foam_evo.cli:main"
+foam-evo = "foam_evo.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["foam_evo", "foam_evo.*"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

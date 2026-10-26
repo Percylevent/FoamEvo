@@ -1,0 +1,52 @@
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.claude/
+
+# Python environments, builds, and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pytest-*/
+.mypy_cache/
+*.egg-info/
+build/
+dist/
+.coverage*
+data-gym-cache/
+
+# Generated simulation, evolution, and retrieval artifacts
+.runs/
+.evo/
+.foam-evo/
+record/
+evorecord/
+output/
+runs/
+worktrees/
+database/faiss/
+database/experience/faiss/
+database/experience/index.jsonl
+database/experience/validations.jsonl
+database/foamgpt/data/
+*.faiss
+*.pkl
+*.index
+
+# Editor and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local extracted fixtures
+*_v10_ready/
+tests/fixtures/v10/
+benchmark/
+core
+*.so

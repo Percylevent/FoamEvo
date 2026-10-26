@@ -1,0 +1,69 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "foam-runner"
+version = "2.1.0"
+description = "Multi-agent framework that automates CFD simulations in OpenFOAM using natural language prompts"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+authors = [
+    {name = "Foam-Runner Team"},
+]
+keywords = ["openfoam", "cfd", "mcp", "llm", "agent", "simulation"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Physics",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+dependencies = [
+    "fastmcp>=2.0.0",
+    "pydantic>=2.0",
+    "langchain>=0.3,<0.4",
+    "langchain-core>=0.3,<0.4",
+    "langchain-openai>=0.2,<0.4",
+    "langchain-anthropic>=0.2,<0.4",
+    "langchain-community>=0.3,<0.4",
+    "langchain-huggingface>=0.1,<0.4",
+    "langgraph>=0.2,<0.3",
+    "faiss-cpu>=1.7",
+    "openai>=1.0",
+    "anthropic>=0.20",
+    "uvicorn>=0.30",
+    "pyvista>=0.44",
+    "tiktoken>=0.8",
+    "requests>=2.31",
+    "sentence-transformers>=2.6,<6",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<9"]
+hpc = ["boto3"]
+ollama = ["langchain-ollama>=0.3", "ollama>=0.4"]
+bedrock = ["langchain-aws>=0.2", "boto3"]
+all = ["foam-runner[hpc,ollama,bedrock]"]
+
+[project.scripts]
+foam-runner = "src.record_cli:main"
+foam-runner-mcp = "src.mcp.cli:main"
+foam-agent = "src.record_cli:main"
+foamagent-mcp = "src.mcp.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["src", "src.*"]
+namespaces = true
+
+[tool.setuptools.package-data]
+"*" = ["*.json", "*.md", "*.txt"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+markers = [
+    "integration: tests that read the full RAG tutorial database",
+]
